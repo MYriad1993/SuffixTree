@@ -1,4 +1,4 @@
-﻿using SuffixTreeLibary;
+﻿using SuffixTreeLibrary;
 
 namespace Examples
 {
